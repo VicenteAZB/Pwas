@@ -1,0 +1,21 @@
+{
+    "name": "Juego de Plataforma B\u00e1sico",
+    "short_name": "Plataform Jump",
+    "description": "Juego en el cual el usuario debe intentar llegar lo mas alto posible, hasta alcanzar 100 de puntaje para terminar el juego.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
